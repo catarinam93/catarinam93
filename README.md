@@ -10,7 +10,7 @@
 
 ###
 
-<p align="left">👩‍🎓 I'm an Artificial Intelligence and Data Science student at FCUP/FEUP, Porto, Portugal<br>🎯 Throughout my academic career I developed several interests such as: Machine Learning, Reinforcement Learning and Intelligent and Autonomous Systems<br>🏍🚗 Fun fact: I'm a big fan of the automotive world (therefore also of autonomous driving👀)</p>
+<p align="left">👩‍🎓 I'm a graduate in Artificial Intelligence and Data Science, currently pursuing a Masters Degree in Artificial Intelligence at FEUP/FCUP, Porto, Portugal<br>🎯 Throughout my academic career I developed several interests such as: Machine Learning, Reinforcement Learning and Intelligent and Autonomous Systems<br>🏍🚗 Fun fact: I'm a big fan of the automotive world (therefore also of autonomous driving👀)</p>
 
 ###
 
